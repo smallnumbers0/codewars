@@ -39,7 +39,7 @@ function towerBuilder(nFloors) {
     return arr
     }
     //every floor add 2 stars a space in front and behind the stars [" *** "]
-
+console.log(towerBuilder(9))
 
 // const star = '*';
 // const space = ' '

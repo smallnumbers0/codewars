@@ -20,7 +20,8 @@ function spinWords(string){
       newString.push(words[i])
       }
     else if(words[i].length >= 5) {
-      newString.push(words[i].split("").reverse().join("")) //SOMETHING IS WRONG HERE
+      newString.push(words[i].split("").reverse().join(""))
+      
       }
     }
   return newString.join(" ")
