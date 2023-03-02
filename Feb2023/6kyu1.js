@@ -25,3 +25,5 @@ function firstNonConsecutive (arr) {
   console.log([1,2,3,4,5,7,8])
   console.log([1,2,3,4])
   console.log([-3,-2,-1,0,1,2,3])
+
+  
